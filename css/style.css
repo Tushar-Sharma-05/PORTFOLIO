@@ -111,9 +111,7 @@
   font: normal bold 49px/60px ;
   letter-spacing: 10px;
 }
-.site-main .about-area .about-title.paragraph>p{
-  /* padding: .4rem 0; */
-}
+
 .site-main .about-area .about-title p {
   padding: 1rem 0rem !important;
   letter-spacing: 1px;
